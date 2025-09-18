@@ -10,3 +10,4 @@ isort
 flake8
 pre-commit
 boto3
+dotenv
