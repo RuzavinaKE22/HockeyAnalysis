@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+streamlit-authenticator
+black
+isort
+flake8
+pre-commit
+boto3
